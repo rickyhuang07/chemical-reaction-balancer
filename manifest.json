@@ -1,0 +1,3 @@
+{
+    "upload": ["config.py", "src/elements.py", "src/chemical_yield.py", "src/limiting.py", "src/matrix_operations.py", "src/solver.py"]
+}
